@@ -1,14 +1,13 @@
 # Insights into regression-based cross-temporal forecast reconciliation
 
--   **Manuscript title**: *Insights into regression-based cross-temporal forecast reconciliation*
--   **Authors**: Daniele Girolimetto, and Tommaso Di Fonzo
--   **DOI**: [https://doi.org/XXX/arXiv.XXX](https://doi.org/XXX/arXiv.XXX)
-
 ## Overview
 
 This README provides step-by-step instructions for reproducing the forecasting experiments 
 detailed in the paper. The experiments utilize the PV324 dataset (available in the `raw` folder) 
 and involve the implementation of various cross-temporal forecast reconciliation techniques.
+
+- **Manuscript title**: *Insights into regression-based cross-temporal forecast reconciliation*
+- **Authors**: Daniele Girolimetto, and Tommaso Di Fonzo
 
 ## Instructions for reproducing the experiment
 
