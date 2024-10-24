@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Girolimetto"
+  given-names: "Daniele"
+  orcid: "https://orcid.org/0000-0001-9387-1232"
+- family-names: "Di Fonzo"
+  given-names: "Tommaso"
+  orcid: "https://orcid.org/0000-0003-3388-7827"
+title: "Insights into regression-based cross-temporal forecast reconciliation"
+date-released: 2024-10-25
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Girolimetto"
+    given-names: "Daniele"
+    orcid: "https://orcid.org/0000-0001-9387-1232"
+  - family-names: "Di Fonzo"
+    given-names: "Tommaso"
+    orcid: "https://orcid.org/0000-0003-3388-7827"
+  start: 1 # First page number
+  end: 20 # Last page number
+  title: "Insights into regression-based cross-temporal forecast reconciliation"
+  year: 2024
